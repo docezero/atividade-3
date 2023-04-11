@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;   
+}
+
+h1.titulo{
+    color: azure;
+    font-style: normal;
+}
